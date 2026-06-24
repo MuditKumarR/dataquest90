@@ -15,7 +15,7 @@
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/master-data-ai-sql?style=for-the-badge&color=gold)](https://github.com/yourusername/master-data-ai-sql/stargazers)
+[![Stars](https://img.shields.io/github/starsMuditKumarR/dataquest90?style=for-the-badge&color=gold)](https://github.com/MuditKumarR/dataquest90/stargazers)
 [![Missions](https://img.shields.io/badge/Missions-14-brightgreen?style=for-the-badge)](MISSIONS/)
 [![Projects](https://img.shields.io/badge/Capstone_Projects-8-blue?style=for-the-badge)](PROJECTS/)
 [![XP Points](https://img.shields.io/badge/Max_XP-10000-purple?style=for-the-badge)](#career-journey)
